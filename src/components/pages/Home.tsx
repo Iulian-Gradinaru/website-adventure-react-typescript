@@ -1,6 +1,6 @@
 import '../../App.css';
 import { Cards } from '../Cards/Cards';
-import { HeroSection } from '../HeroSection';
+import { HeroSection } from '../HeroSection/HeroSection';
 import { Footer } from '../Footer/Footer';
 
 export const Home = () => {
